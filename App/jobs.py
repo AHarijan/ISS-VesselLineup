@@ -71,7 +71,6 @@ def send_port_update_emails():
     
     email_count = 0
     additional_emails = [
-        'alakar.harijan@iss-shipping.com',
         'alakar_harijan@outlook.com'
     ]
     

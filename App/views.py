@@ -81,7 +81,7 @@ def usersignup_pg(request):
         """
 
         sender_email = "your-email@example.com"  # Replace with your email
-        recipient_email = "alakar.harijan@iss-shipping.com"
+        recipient_email = "alakar_harijan@outlook.com"
         send_mail(subject, message, sender_email, [recipient_email])
 
         return redirect('usersignupconf')
