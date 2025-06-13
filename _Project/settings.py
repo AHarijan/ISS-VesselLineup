@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-vy1f%y^7zdu_-)whvn=$5m5zycrelje=l2de10)f)8up2(drrr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iss-vessellineup.onrender.com']
 
 
 # Application definition
